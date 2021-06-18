@@ -1,23 +1,23 @@
-# Chapter Five: Controlling Bitcoin Transactions
+# Capitulo Cinco: Controlar Las Transacciones de Bitcoin 
 
-Sending a transaction isn't always the end of the story. Using the RBF (replace-by-fee) and CPFP (child-pays-for-parent) protocols, a developer can continue to control the transaction after it's been sent, to improve efficiency or to recover transactions that get stuck. These methods will begin to spotlight the true power of Bitcoin.
+Enviar una transacción no siempre es el final de la historia. Al usar los protocolos RBF (reemplazo por tarifa) y CPFP (el niño paga por el padre), un desarrollador puede continuar controlando la transacción después de que se haya enviado, para mejorar la eficiencia o recuperar transacciones que se atascan. Estos métodos comenzarán a destacar el cerdadero poder de Bitcoin.
 
-## Objectives for This Section
+## Objetivos de esta sección:
 
-After working through this chapter, a developer will be able to:
+Después de trabajar en este capítulo, un desarrollador podrá:
 
-   * Decide Whether RBF or CPFP Might Help a Transaction
-   * Create Replacement Transaction Using RBF
-   * Create New Transactions Using CPFP
+   * Decida si RBF o CPFP pueden ayudar en una transacción
+   * Crear transacción de reemplazo usando RBF
+   * Crear nuevas transacciones con CPFP
    
-Supporting objectives include the ability to:
+Los objetivos de apoyo incluyen la capacidad de:
 
-   * Understand the Mempool
-   * Understand the Difference Between RBF and CPFP
-   * Plan for the Power of RBF
+   * Entender la mempool
+   * Comprenda la diferencia entre RBF y CPFP
+   * Planifique el poder de RBF
    
-## Table of Contents
+## Tabla de contenido
    
-   * [Section One: Watching for Stuck Transactions](05_1_Watching_for_Stuck_Transactions.md)
-   * [Section Two: Resending a Transaction with RBF](05_2_Resending_a_Transaction_with_RBF.md)
-   * [Section Three: Funding a Transaction with CPFP](05_3_Funding_a_Transaction_with_CPFP.md)
+   * [Sección uno: Vigilancia de transacciones atascadas](05_1_Watching_for_Stuck_Transactions.md)
+   * [Sección dos: Reenvío de una transacción con RBF](05_2_Resending_a_Transaction_with_RBF.md)
+   * [Sección tres: Financiamiento de una transacción con CPFP](05_3_Funding_a_Transaction_with_CPFP.md)
